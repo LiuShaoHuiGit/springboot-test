@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b04acae0-0911-4d63-a772-986d78728196" name="Default Changelist" comment="" />
+    <list default="true" id="b04acae0-0911-4d63-a772-986d78728196" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,14 +113,30 @@
       <option name="presentableId" value="Default" />
       <updated>1586762707225</updated>
       <workItem from="1586762711281" duration="1268000" />
-      <workItem from="1586844750635" duration="1965000" />
+      <workItem from="1586844750635" duration="2758000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交springboot项目">
+      <created>1586846930474</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586846930474</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交springboot项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交springboot项目" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="147" y="0" key="CommitChangelistDialog2" timestamp="1586846929295">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="147" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1586846929295" />
     <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1586846862695">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -159,6 +177,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586845855120" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1586846973459">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1586846973459" />
     <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1586844758007">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
